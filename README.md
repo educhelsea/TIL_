@@ -6,3 +6,9 @@
     - CLI
     - 마크다운
     - git 기초 
+        ```bash
+        git init
+        git add .
+        git commit -m "변경 사유"
+        ```
+    - github
