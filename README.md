@@ -6,3 +6,5 @@
     - CLI
     - 마크다운
     - git 기초 
+    - github
+    - git clone, pull
