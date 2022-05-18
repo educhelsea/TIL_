@@ -12,3 +12,4 @@
         git commit -m "변경 사유"
         ```
     - github
+    - git clone, pull
